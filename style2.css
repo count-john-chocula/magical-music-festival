@@ -28,11 +28,11 @@ main{
   font-weight: 400;
   font-style: normal;
     font-size: large;
-  border:1px solid pink;
+ 
 }
 
 section{
-  border:1px solid red;
+  
   float:right;
   width:45%;
 }
@@ -87,7 +87,7 @@ aside{
   font-weight: 400;
   font-style: normal;
     font-size: large;
-  border:1px solid green;
+  
 }
 
 #three{
